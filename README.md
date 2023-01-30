@@ -1,4 +1,4 @@
-# Script KURITA Websocket
+# <h2 align="center">Script KURITA Websocket
 
  <h2 align="center">AutoScript VPN <img src="https://img.shields.io/badge/Version-premium_1.1-blue.svg"></h2>
 
